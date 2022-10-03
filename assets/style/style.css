@@ -33,3 +33,6 @@ tr,td{
 th{
     text-align: justify;
 }
+.details{
+    height: 60vh;
+}

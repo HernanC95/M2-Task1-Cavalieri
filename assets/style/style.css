@@ -10,8 +10,12 @@
 .colorSubmain{
     background-color: #AC0554;
 }
-header{
-    height: 15vh;
+.logo{
+    min-width: 10%;
+    object-fit: contain;
+}
+.barraBusqueda{
+    min-width: 20%;
 }
 main{
     min-height: 75vh;

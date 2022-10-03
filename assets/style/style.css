@@ -17,6 +17,11 @@
 .barraBusqueda{
     min-width: 20%;
 }
+.img-details{
+    min-width: 50%;
+    min-height: 50%;
+    object-fit:cover;
+}
 main{
     min-height: 75vh;
 }
@@ -38,5 +43,6 @@ th{
     text-align: justify;
 }
 .details{
-    height: 60vh;
+    min-width: 50% ;
+   min-height: 50vh;
 }
